@@ -1,0 +1,30 @@
+{
+  "name": "dragontnt/php-helpers",
+  "type": "library",
+  "description": "A lightweight and reusable collection of common PHP helper functions.",
+  "keywords": [
+    "php",
+    "helpers",
+    "utility",
+    "functions",
+    "toolkit",
+    "framework-agnostic",
+    "reusable",
+    "array",
+    "string",
+    "number",
+    "common"
+  ],
+  "autoload": {
+    "psr-4": {
+      "DragonTNT\\Helpers\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Long (DragonTNT)",
+      "email": "chaungoclong2411@gmail.com"
+    }
+  ],
+  "require": {}
+}
